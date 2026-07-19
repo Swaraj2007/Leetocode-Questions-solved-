@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Swaraj2007/Leetocode-Questions-solved-/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Swaraj2007/Leetocode-Questions-solved-/tree/master/0118-pascals-triangle) |
+| [0204-count-primes](https://github.com/Swaraj2007/Leetocode-Questions-solved-/tree/master/0204-count-primes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Swaraj2007/Leetocode-Questions-solved-/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Swaraj2007/Leetocode-Questions-solved-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Swaraj2007/Leetocode-Questions-solved-/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/Swaraj2007/Leetocode-Questions-solved-/tree/master/0204-count-primes) |
 | [2469-convert-the-temperature](https://github.com/Swaraj2007/Leetocode-Questions-solved-/tree/master/2469-convert-the-temperature) |
 ## Bit Manipulation
 |  |
@@ -31,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Swaraj2007/Leetocode-Questions-solved-/tree/master/0067-add-binary) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Swaraj2007/Leetocode-Questions-solved-/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Swaraj2007/Leetocode-Questions-solved-/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
