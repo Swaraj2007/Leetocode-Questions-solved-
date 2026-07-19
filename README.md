@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Swaraj2007/Leetocode-Questions-solved-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Swaraj2007/Leetocode-Questions-solved-/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/Swaraj2007/Leetocode-Questions-solved-/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Swaraj2007/Leetocode-Questions-solved-/tree/master/0231-power-of-two) |
 | [2469-convert-the-temperature](https://github.com/Swaraj2007/Leetocode-Questions-solved-/tree/master/2469-convert-the-temperature) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Swaraj2007/Leetocode-Questions-solved-/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Swaraj2007/Leetocode-Questions-solved-/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Swaraj2007/Leetocode-Questions-solved-/tree/master/0204-count-primes) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Swaraj2007/Leetocode-Questions-solved-/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
